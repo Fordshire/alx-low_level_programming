@@ -1,1 +1,1 @@
-first low level c programming
+my first hello world compiled in c
